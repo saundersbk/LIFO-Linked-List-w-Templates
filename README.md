@@ -1,4 +1,4 @@
-# LIFO-Linked-List-w-Templates
+# Stacks-w-Templates
 
 # NOTE: Requires MinGW C++ Complilers
 
